@@ -1,0 +1,29 @@
+.submitButton {
+  position: fixed;
+  bottom: 30px;
+  right: 50px;
+  background-color: transparent;
+  border: none;
+}
+
+.favButton {
+  position: fixed;
+  bottom: 185px;
+  right: 58px;
+  background-color: transparent;
+  border: none;
+}
+
+.deleteButton {
+  position: fixed;
+  bottom: 110px;
+  right: 57px;
+  background-color: transparent;
+  border: none;
+}
+
+.backButton {
+  padding: 20px;
+  background-color: transparent;
+  border: none;
+}

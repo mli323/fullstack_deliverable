@@ -1,0 +1,25 @@
+@font-face {
+  font-family: superPixel;
+  src: url('../app/fonts/SuperPixel.woff');
+}
+
+@font-face {
+  font-family: retroBit;
+  src: url('../app/fonts/Retrobit.woff');
+}
+
+.center {
+  margin: auto;
+  width: 950px;
+  height: 100vw;
+  background:white;
+}
+
+.title {
+  padding: 30px;
+  color:rgb(44, 0, 0);
+  font-family: superPixel;
+}
+
+
+
